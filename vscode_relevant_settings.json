@@ -1,0 +1,22 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "workbench.editor.closeOnFileDelete": false,
+    "C_Cpp.intelliSenseEngine": "Default",
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "C_Cpp.clang_format_formatOnSave": true,
+    "python.formatting.formatOnSave": true,
+    "python.linting.flake8Enabled": true,
+    "[cpp]": {
+        "editor.tabSize": 2
+    },
+    "latex-workshop.latex.toolchain": [
+        {
+          "command": "make",
+          "args": [
+            "informe.pdf"
+          ]
+        }
+    ],
+    "latex-workshop.chktex.enabled": true
+}
