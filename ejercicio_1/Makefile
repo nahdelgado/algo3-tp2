@@ -17,6 +17,6 @@ $(BIN_DIR):
 
 clean:
 	make -C $(SRC_DIR) clean
-	rm -rf $(BINPATH)
+	rm -rf $(BIN)
 
 new: clean all
